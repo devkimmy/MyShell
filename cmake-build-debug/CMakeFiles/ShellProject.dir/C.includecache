@@ -1,0 +1,20 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/kimgeunsu/Documents/INHA/3학년2학기/전) 유닉스 프로그래밍/ShellProject/myShell.c
+string.h
+-
+unistd.h
+-
+stdio.h
+-
+stdlib.h
+-
+stdbool.h
+-
+
