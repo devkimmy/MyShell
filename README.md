@@ -1,6 +1,5 @@
 # MyShell
 
-------
 
 ### Simple shell implemented at UNIX class
 
