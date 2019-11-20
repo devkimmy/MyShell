@@ -1,7 +1,7 @@
 # MyShell
 
 
-### Simple shell implemented at UNIX class
+### Simple shell implemented in UNIX class
 
 - Zombie process handling
 - Background execution possible
